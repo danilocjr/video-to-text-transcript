@@ -1,0 +1,12 @@
+gunicorn
+flask
+flask-cors
+Flask-Session
+requests
+python-dotenv
+google-cloud-storage
+google-cloud-speech
+pydub
+pip-tools
+audioread
+setuptools > 40.3.0 
